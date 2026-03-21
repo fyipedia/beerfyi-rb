@@ -40,7 +40,7 @@ puts result
 - **API**: [beerfyi.com/api/v1/](https://beerfyi.com/api/v1/)
 - **OpenAPI**: [beerfyi.com/api/v1/schema/](https://beerfyi.com/api/v1/schema/)
 - **Glossary**: [beerfyi.com/glossary/](https://beerfyi.com/glossary/)
-- **Guides**: [beerfyi.com/guides/](https://beerfyi.com/guides/)
+- **Guides**: [beerfyi.com/guide/](https://beerfyi.com/guide/)
 - **Tools**: [beerfyi.com/tools/](https://beerfyi.com/tools/)
 - **Developers**: [beerfyi.com/developers/](https://beerfyi.com/developers/)
 Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosystem.
