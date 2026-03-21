@@ -42,6 +42,20 @@ puts result
 
 Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosystem.
 
+## Beverage FYI Family
+
+Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosystem.
+
+| Site | Domain | Focus |
+|------|--------|-------|
+| **BeerFYI** | [beerfyi.com](https://beerfyi.com) | 112 beer styles, hops, malts, yeast, BJCP |
+| BrewFYI | [brewfyi.com](https://brewfyi.com) | 72 coffee varieties, roasting, 21 brew methods |
+| CocktailFYI | [cocktailfyi.com](https://cocktailfyi.com) | 636 cocktails, ABV, calories, flavor profiles |
+| NihonshuFYI | [nihonshufyi.com](https://nihonshufyi.com) | 80 sake, rice varieties, 50 breweries |
+| TeaFYI | [teafyi.com](https://teafyi.com) | 60 tea varieties, teaware, brewing guides |
+| VinoFYI | [vinofyi.com](https://vinofyi.com) | Wines, grapes, regions, wineries, food pairings |
+| WhiskeyFYI | [whiskeyfyi.com](https://whiskeyfyi.com) | 80 whiskey expressions, distilleries, regions |
+
 ## License
 
 MIT
