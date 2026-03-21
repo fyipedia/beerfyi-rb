@@ -28,7 +28,7 @@ puts result
 | Platform | Install | Link |
 |----------|---------|------|
 | **Python** | `pip install beerfyi` | [PyPI](https://pypi.org/project/beerfyi/) |
-| **npm** | `npm install beerfyi` | [npm](https://www.npmjs.com/package/beerfyi) |
+| **npm** | `npm install beerfyi` | [npm](https://www.npmjs.com/package/@fyipedia/beerfyi) |
 | **Go** | `go get github.com/fyipedia/beerfyi-go` | [pkg.go.dev](https://pkg.go.dev/github.com/fyipedia/beerfyi-go) |
 | **Rust** | `cargo add beerfyi` | [crates.io](https://crates.io/crates/beerfyi) |
 | **Ruby** | `gem install beerfyi` | [rubygems](https://rubygems.org/gems/beerfyi) |
