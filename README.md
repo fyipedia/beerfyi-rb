@@ -39,7 +39,10 @@ puts result
 - **Site**: [beerfyi.com](https://beerfyi.com)
 - **API**: [beerfyi.com/api/v1/](https://beerfyi.com/api/v1/)
 - **OpenAPI**: [beerfyi.com/api/v1/schema/](https://beerfyi.com/api/v1/schema/)
-
+- **Glossary**: [beerfyi.com/glossary/](https://beerfyi.com/glossary/)
+- **Guides**: [beerfyi.com/guides/](https://beerfyi.com/guides/)
+- **Tools**: [beerfyi.com/tools/](https://beerfyi.com/tools/)
+- **Developers**: [beerfyi.com/developers/](https://beerfyi.com/developers/)
 Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosystem.
 
 ## Beverage FYI Family
